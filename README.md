@@ -20,6 +20,8 @@ My LeetCode Solutions (in Python)
 |[Climbing Stairs](https://oj.leetcode.com/problems/climbing-stairs/)| [Python](./src/climbing-stairs.py)|2012/4/3|Easy|
 |[Maximum Subarray](https://oj.leetcode.com/problems/maximum-subarray/)| [Python](./src/maximum-subarray.py)|2012/3/21|Medium|
 |[Merge Two Sorted Lists](https://oj.leetcode.com/problems/merge-two-sorted-lists/)| [Python](./src/merge-two-sorted-lists.py)|2012/3/30|Easy|
+|[Merge Sorted Array](https://oj.leetcode.com/problems/merge-sorted-array/)| [Python](./src/merge-sorted-array.py)|2012/5/20|Easy|
 |[Remove Element](https://oj.leetcode.com/problems/remove-element/)| [Python](./src/remove-element.py)|2012/2/26|Easy|
 |[Best Time to Buy and Sell Stock](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [Python](./src/best-time-to-buy-and-sell-stock.py)|2012/10/30|Medium|
+|[Best Time to Buy and Sell Stock II](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [Python](./src/best-time-to-buy-and-sell-stock-ii.py)|2012/10/30|Medium|
 |[Reverse Words in a String](https://oj.leetcode.com/problems/reverse-words-in-a-string/)| [Python](./src/reverse-words-in-a-string.py)|2014/3/5|Medium|
