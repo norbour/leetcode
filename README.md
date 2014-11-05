@@ -6,6 +6,7 @@ My LeetCode Solutions (in Python)
 | Title | Solution | Add Date | Difficulty |
 | ----- | -------- | -------- | ---------- |
 |[Single Number](https://oj.leetcode.com/problems/single-number/)| [Python](./src/single-number.py)|2013/10/1|Medium|
+|[Single Number II](https://oj.leetcode.com/problems/single-number-ii/)| [Python](./src/single-number-ii.py)|2013/10/2|Medium|
 |[Maximum Depth of Binary Tree](https://oj.leetcode.com/problems/maximum-depth-of-binary-tree/)| [Python](./src/maximum-depth-of-binary-tree.py)|2012/9/29|Easy|
 |[Same Tree](https://oj.leetcode.com/problems/same-tree/)| [Python](./src/same-tree.py)|2012/9/3|Easy|
 |[Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/)| [Python](./src/reverse-integer.py)|2011/12/25|Easy|
@@ -23,5 +24,5 @@ My LeetCode Solutions (in Python)
 |[Merge Sorted Array](https://oj.leetcode.com/problems/merge-sorted-array/)| [Python](./src/merge-sorted-array.py)|2012/5/20|Easy|
 |[Remove Element](https://oj.leetcode.com/problems/remove-element/)| [Python](./src/remove-element.py)|2012/2/26|Easy|
 |[Best Time to Buy and Sell Stock](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [Python](./src/best-time-to-buy-and-sell-stock.py)|2012/10/30|Medium|
-|[Best Time to Buy and Sell Stock II](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [Python](./src/best-time-to-buy-and-sell-stock-ii.py)|2012/10/30|Medium|
 |[Reverse Words in a String](https://oj.leetcode.com/problems/reverse-words-in-a-string/)| [Python](./src/reverse-words-in-a-string.py)|2014/3/5|Medium|
+|[Copy List with Random Pointer ](https://oj.leetcode.com/problems/copy-list-with-random-pointer/)| [Python](./src/copy-list-with-random-pointer.py)|2013/10/3|Hard|
