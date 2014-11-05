@@ -6,9 +6,9 @@ My LeetCode Solutions (in Python)
 | Title | Solution | Add Date | Difficulty |
 | ----- | -------- | -------- | ---------- |
 |[Single Number](https://oj.leetcode.com/problems/single-number/)| [Python](./src/single-number.py)|2013/10/1|Medium|
-|[Single Number II](https://oj.leetcode.com/problems/single-number-ii/)| [Python](./src/permutations-ii.py)|2013/10/2|Medium|
+|[Single Number II](https://oj.leetcode.com/problems/single-number-ii/)| [Python](./src/single-number-ii.py)|2013/10/2|Medium|
 |[Permutations](https://oj.leetcode.com/problems/permutations/)| [Python](./src/permutations.py)|2012/3/16|Medium|
-|[Permutations II](https://oj.leetcode.com/problems/permutations-ii/)| [Python](./src/single-number-ii.py)|2012/3/16|Hard|
+|[Permutations II](https://oj.leetcode.com/problems/permutations-ii/)| [Python](./src/permutations-ii.py)|2012/3/16|Hard|
 |[Maximum Depth of Binary Tree](https://oj.leetcode.com/problems/maximum-depth-of-binary-tree/)| [Python](./src/maximum-depth-of-binary-tree.py)|2012/9/29|Easy|
 |[Same Tree](https://oj.leetcode.com/problems/same-tree/)| [Python](./src/same-tree.py)|2012/9/3|Easy|
 |[Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/)| [Python](./src/reverse-integer.py)|2011/12/25|Easy|
