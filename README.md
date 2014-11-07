@@ -10,6 +10,7 @@ My LeetCode Solutions (in Python)
 |[Permutations](https://oj.leetcode.com/problems/permutations/)| [Python](./src/permutations.py)|2012/3/16|Medium|
 |[Permutations II](https://oj.leetcode.com/problems/permutations-ii/)| [Python](./src/permutations-ii.py)|2012/3/16|Hard|
 |[Maximum Depth of Binary Tree](https://oj.leetcode.com/problems/maximum-depth-of-binary-tree/)| [Python](./src/maximum-depth-of-binary-tree.py)|2012/9/29|Easy|
+|[Remove Duplicates from Sorted Array](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/)| [Python](./src/remove-duplicates-from-sorted-array.py)|2012/2/16|Easy|
 |[Same Tree](https://oj.leetcode.com/problems/same-tree/)| [Python](./src/same-tree.py)|2012/9/3|Easy|
 |[Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/)| [Python](./src/reverse-integer.py)|2011/12/25|Easy|
 |[Unique Binary Search Trees](https://oj.leetcode.com/problems/unique-binary-search-trees/)| [Python](./src/unique-binary-search-trees.py)|2012/8/27|Medium|
@@ -26,6 +27,7 @@ My LeetCode Solutions (in Python)
 |[Merge Two Sorted Lists](https://oj.leetcode.com/problems/merge-two-sorted-lists/)| [Python](./src/merge-two-sorted-lists.py)|2012/3/30|Easy|
 |[Merge Sorted Array](https://oj.leetcode.com/problems/merge-sorted-array/)| [Python](./src/merge-sorted-array.py)|2012/5/20|Easy|
 |[Remove Element](https://oj.leetcode.com/problems/remove-element/)| [Python](./src/remove-element.py)|2012/2/26|Easy|
+|[Trapping Rain Water](https://oj.leetcode.com/problems/trapping-rain-water/)| [Python](./src/trapping-rain-water.py)|2012/3/10|Hard|
 |[Container With Most Water](https://oj.leetcode.com/problems/container-with-most-water/)| [Python](./src/container-with-most-water.py)|2012/1/8|Medium|
 |[Best Time to Buy and Sell Stock](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [Python](./src/best-time-to-buy-and-sell-stock.py)|2012/10/30|Medium|
 |[Best Time to Buy and Sell Stock II](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [Python](./src/best-time-to-buy-and-sell-stock-ii.py)|2012/10/30|Medium|
