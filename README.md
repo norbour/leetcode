@@ -7,11 +7,13 @@ My LeetCode Solutions (in Python)
 | ----- | -------- | -------- | ---------- |
 |[Single Number](https://oj.leetcode.com/problems/single-number/)| [Python](./src/single-number.py)|2013/10/1|Medium|
 |[Single Number II](https://oj.leetcode.com/problems/single-number-ii/)| [Python](./src/single-number-ii.py)|2013/10/2|Medium|
+|[Find Minimum in Rotated Sorted Array](https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array/)| [Python](./src/find-minimum-in-rotated-sorted-array.py)|2014/10/15|Medium|
 |[Permutations](https://oj.leetcode.com/problems/permutations/)| [Python](./src/permutations.py)|2012/3/16|Medium|
 |[Permutations II](https://oj.leetcode.com/problems/permutations-ii/)| [Python](./src/permutations-ii.py)|2012/3/16|Hard|
 |[Maximum Depth of Binary Tree](https://oj.leetcode.com/problems/maximum-depth-of-binary-tree/)| [Python](./src/maximum-depth-of-binary-tree.py)|2012/9/29|Easy|
 |[Remove Duplicates from Sorted Array](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/)| [Python](./src/remove-duplicates-from-sorted-array.py)|2012/2/16|Easy|
 |[Same Tree](https://oj.leetcode.com/problems/same-tree/)| [Python](./src/same-tree.py)|2012/9/3|Easy|
+|[Balanced Binary Tree](https://oj.leetcode.com/problems/balanced-binary-tree/)| [Python](./src/balanced-binary-tree.py)|2012/10/8|Easy|
 |[Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/)| [Python](./src/reverse-integer.py)|2011/12/25|Easy|
 |[Unique Binary Search Trees](https://oj.leetcode.com/problems/unique-binary-search-trees/)| [Python](./src/unique-binary-search-trees.py)|2012/8/27|Medium|
 |[Convert Sorted Array to Binary Search Tree](https://oj.leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)| [Python](./src/convert-sorted-array-to-binary-search-tree.py)|2012/10/2|Medium|
