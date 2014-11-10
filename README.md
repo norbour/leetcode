@@ -20,6 +20,8 @@ My LeetCode Solutions (in Python)
 |[Linked List Cycle](https://oj.leetcode.com/problems/linked-list-cycle/)| [Python](./src/linked-list-cycle.py)|2013/10/28|Medium|
 |[Binary Tree Preorder Traversal](https://oj.leetcode.com/problems/binary-tree-preorder-traversal/)| [Python](./src/binary-tree-preorder-traversal.py)|2013/11/5|Medium|
 |[Binary Tree Inorder Traversal](https://oj.leetcode.com/problems/binary-tree-inorder-traversal/)| [Python](./src/binary-tree-inorder-traversal.py)|2012/8/27|Medium|
+|[Binary Tree Postorder Traversal](https://oj.leetcode.com/problems/binary-tree-postorder-traversal/)| [Python](./src/binary-tree-postorder-traversal.py)|2013/11/7|Hard|
+|[Binary Tree Level Order Traversal](https://oj.leetcode.com/problems/binary-tree-level-order-traversal/)| [Python](./src/binary-tree-level-order-traversal.py)|2012/9/28|Easy|
 |[Populating Next Right Pointers in Each Node](https://oj.leetcode.com/problems/populating-next-right-pointers-in-each-node/)| [Python](./src/populating-next-right-pointers-in-each-node.py)|2012/10/28|Medium|
 |[Search Insert Position](https://oj.leetcode.com/problems/search-insert-position/)| [Python](./src/search-insert-position.py)|2012/3/3|Medium|
 |[Remove Duplicates from Sorted List](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list/)| [Python](./src/remove-duplicates-from-sorted-list.py)|2012/4/22|Easy|
