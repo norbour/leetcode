@@ -22,6 +22,8 @@ My LeetCode Solutions (in Python)
 |[Binary Tree Inorder Traversal](https://oj.leetcode.com/problems/binary-tree-inorder-traversal/)| [Python](./src/binary-tree-inorder-traversal.py)|2012/8/27|Medium|
 |[Binary Tree Postorder Traversal](https://oj.leetcode.com/problems/binary-tree-postorder-traversal/)| [Python](./src/binary-tree-postorder-traversal.py)|2013/11/7|Hard|
 |[Binary Tree Level Order Traversal](https://oj.leetcode.com/problems/binary-tree-level-order-traversal/)| [Python](./src/binary-tree-level-order-traversal.py)|2012/9/28|Easy|
+|[Construct Binary Tree from Inorder and Postorder Traversal](https://oj.leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)| [Python](./src/construct-binary-tree-from-inorder-and-postorder-traversal.py)|2012/9/30|Medium|
+|[Construct Binary Tree from Preorder and Inorder Traversal](https://oj.leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)| [Python](./src/construct-binary-tree-from-preorder-and-inorder-traversal.py)|2012/9/30|Medium|
 |[Populating Next Right Pointers in Each Node](https://oj.leetcode.com/problems/populating-next-right-pointers-in-each-node/)| [Python](./src/populating-next-right-pointers-in-each-node.py)|2012/10/28|Medium|
 |[Search Insert Position](https://oj.leetcode.com/problems/search-insert-position/)| [Python](./src/search-insert-position.py)|2012/3/3|Medium|
 |[Remove Duplicates from Sorted List](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list/)| [Python](./src/remove-duplicates-from-sorted-list.py)|2012/4/22|Easy|
@@ -37,3 +39,4 @@ My LeetCode Solutions (in Python)
 |[Best Time to Buy and Sell Stock II](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [Python](./src/best-time-to-buy-and-sell-stock-ii.py)|2012/10/30|Medium|
 |[Reverse Words in a String](https://oj.leetcode.com/problems/reverse-words-in-a-string/)| [Python](./src/reverse-words-in-a-string.py)|2014/3/5|Medium|
 |[Copy List with Random Pointer ](https://oj.leetcode.com/problems/copy-list-with-random-pointer/)| [Python](./src/copy-list-with-random-pointer.py)|2013/10/3|Hard|
+|[Maximum Product Subarray ](https://oj.leetcode.com/problems/maximum-product-subarray/)| [Python](./src/maximum-product-subarray.py)|2014/9/23|Medium|
