@@ -8,6 +8,7 @@ My LeetCode Solutions (in Python)
 |[Single Number](https://oj.leetcode.com/problems/single-number/)| [Python](./src/single-number.py)|2013/10/1|Medium|
 |[Single Number II](https://oj.leetcode.com/problems/single-number-ii/)| [Python](./src/single-number-ii.py)|2013/10/2|Medium|
 |[Find Minimum in Rotated Sorted Array](https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array/)| [Python](./src/find-minimum-in-rotated-sorted-array.py)|2014/10/15|Medium|
+|[Find Minimum in Rotated Sorted Array II](https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)| [Python](./src/find-minimum-in-rotated-sorted-array-ii.py)|2014/10/20|Hard|
 |[Permutations](https://oj.leetcode.com/problems/permutations/)| [Python](./src/permutations.py)|2012/3/16|Medium|
 |[Permutations II](https://oj.leetcode.com/problems/permutations-ii/)| [Python](./src/permutations-ii.py)|2012/3/16|Hard|
 |[Maximum Depth of Binary Tree](https://oj.leetcode.com/problems/maximum-depth-of-binary-tree/)| [Python](./src/maximum-depth-of-binary-tree.py)|2012/9/29|Easy|
@@ -40,3 +41,5 @@ My LeetCode Solutions (in Python)
 |[Reverse Words in a String](https://oj.leetcode.com/problems/reverse-words-in-a-string/)| [Python](./src/reverse-words-in-a-string.py)|2014/3/5|Medium|
 |[Copy List with Random Pointer ](https://oj.leetcode.com/problems/copy-list-with-random-pointer/)| [Python](./src/copy-list-with-random-pointer.py)|2013/10/3|Hard|
 |[Maximum Product Subarray ](https://oj.leetcode.com/problems/maximum-product-subarray/)| [Python](./src/maximum-product-subarray.py)|2014/9/23|Medium|
+|[Swap Nodes in Pairs ](https://oj.leetcode.com/problems/swap-nodes-in-pairs/)| [Python](./src/swap-nodes-in-pairs.py)|2012/2/14|Medium|
+|[Search a 2D Matrix ](https://oj.leetcode.com/problems/search-a-2d-matrix/)| [Python](./src/search-a-2d-matrix.py)|2012/4/6|Medium|
