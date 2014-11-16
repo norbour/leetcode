@@ -43,3 +43,6 @@ My LeetCode Solutions (in Python)
 |[Maximum Product Subarray ](https://oj.leetcode.com/problems/maximum-product-subarray/)| [Python](./src/maximum-product-subarray.py)|2014/9/23|Medium|
 |[Swap Nodes in Pairs ](https://oj.leetcode.com/problems/swap-nodes-in-pairs/)| [Python](./src/swap-nodes-in-pairs.py)|2012/2/14|Medium|
 |[Search a 2D Matrix ](https://oj.leetcode.com/problems/search-a-2d-matrix/)| [Python](./src/search-a-2d-matrix.py)|2012/4/6|Medium|
+|[Plus One](https://oj.leetcode.com/problems/plus-one/)| [Python](./src/plus-one.py)|2012/4/2|Easy|
+|[Sort Colors](https://oj.leetcode.com/problems/sort-colors/)| [Python](./src/sort-colors.py)|2012/4/8|Medium|
+|[Gray Code](https://oj.leetcode.com/problems/gray-code/)| [Python](./src/gray-code.py)|2012/5/20|Medium|
