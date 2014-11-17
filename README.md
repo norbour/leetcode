@@ -5,6 +5,7 @@ My LeetCode Solutions (in Python)
 
 | Title | Solution | Add Date | Difficulty |
 | ----- | -------- | -------- | ---------- |
+|[String to Integer (atoi)](https://oj.leetcode.com/problems/string-to-integer-atoi/)| [Python](./src/string-to-integer-atoi.py)|2011/12/26|Easy|
 |[Single Number](https://oj.leetcode.com/problems/single-number/)| [Python](./src/single-number.py)|2013/10/1|Medium|
 |[Single Number II](https://oj.leetcode.com/problems/single-number-ii/)| [Python](./src/single-number-ii.py)|2013/10/2|Medium|
 |[Find Minimum in Rotated Sorted Array](https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array/)| [Python](./src/find-minimum-in-rotated-sorted-array.py)|2014/10/15|Medium|
