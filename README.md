@@ -5,11 +5,17 @@ My LeetCode Solutions (in Python)
 
 | Title | Solution | Add Date | Difficulty |
 | ----- | -------- | -------- | ---------- |
+|[Minimum Path Sum](https://oj.leetcode.com/problems/minimum-path-sum/)| [Python](./src/minimum-path-sum.py)|2012/3/28|Medium|
+|[Unique Paths](https://oj.leetcode.com/problems/unique-paths/)| [Python](./src/unique-paths.py)|2012/3/28|Medium|
+|[Rotate Image](https://oj.leetcode.com/problems/rotate-image/)| [Python](./src/rotate-image.py)|2012/3/17|Medium|
+|[Generate Parentheses](https://oj.leetcode.com/problems/generate-parentheses/)| [Python](./src/generate-parentheses.py)|2012/2/12|Medium|
 |[String to Integer (atoi)](https://oj.leetcode.com/problems/string-to-integer-atoi/)| [Python](./src/string-to-integer-atoi.py)|2011/12/26|Easy|
 |[Single Number](https://oj.leetcode.com/problems/single-number/)| [Python](./src/single-number.py)|2013/10/1|Medium|
 |[Single Number II](https://oj.leetcode.com/problems/single-number-ii/)| [Python](./src/single-number-ii.py)|2013/10/2|Medium|
 |[Find Minimum in Rotated Sorted Array](https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array/)| [Python](./src/find-minimum-in-rotated-sorted-array.py)|2014/10/15|Medium|
 |[Find Minimum in Rotated Sorted Array II](https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)| [Python](./src/find-minimum-in-rotated-sorted-array-ii.py)|2014/10/20|Hard|
+|[Search in Rotated Sorted Array](https://oj.leetcode.com/problems/search-in-rotated-sorted-array/)| [Python](./src/search-in-rotated-sorted-array.py)|2012/3/2|Hard|
+|[Search in Rotated Sorted Array II](https://oj.leetcode.com/problems/search-in-rotated-sorted-array-ii/)| [Python](./src/search-in-rotated-sorted-array-ii.py)|2012/4/19|Medium|
 |[Permutations](https://oj.leetcode.com/problems/permutations/)| [Python](./src/permutations.py)|2012/3/16|Medium|
 |[Permutations II](https://oj.leetcode.com/problems/permutations-ii/)| [Python](./src/permutations-ii.py)|2012/3/16|Hard|
 |[Maximum Depth of Binary Tree](https://oj.leetcode.com/problems/maximum-depth-of-binary-tree/)| [Python](./src/maximum-depth-of-binary-tree.py)|2012/9/29|Easy|
