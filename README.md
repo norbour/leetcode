@@ -5,6 +5,8 @@ My LeetCode Solutions (in Python)
 
 | Title | Solution | Add Date | Difficulty |
 | ----- | -------- | -------- | ---------- |
+|[Minimum Path Sum](https://oj.leetcode.com/problems/minimum-path-sum/)| [Python](./src/minimum-path-sum.py)|2012/3/28|Medium|
+|[Unique Paths](https://oj.leetcode.com/problems/unique-paths/)| [Python](./src/unique-paths.py)|2012/3/28|Medium|
 |[Rotate Image](https://oj.leetcode.com/problems/rotate-image/)| [Python](./src/rotate-image.py)|2012/3/17|Medium|
 |[Generate Parentheses](https://oj.leetcode.com/problems/generate-parentheses/)| [Python](./src/generate-parentheses.py)|2012/2/12|Medium|
 |[String to Integer (atoi)](https://oj.leetcode.com/problems/string-to-integer-atoi/)| [Python](./src/string-to-integer-atoi.py)|2011/12/26|Easy|
