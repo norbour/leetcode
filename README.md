@@ -5,6 +5,9 @@ My LeetCode Solutions (in Python)
 
 | Title | Solution | Add Date | Difficulty |
 | ----- | -------- | -------- | ---------- |
+|[Path Sum](https://oj.leetcode.com/problems/path-sum/)| [Python](./src/path-sum.py)|2012/10/13|Easy|
+|[Valid Palindrome](https://oj.leetcode.com/problems/valid-palindrome/)| [Python](./src/valid-palindrome.py)|2013/1/12|Easy|
+|[Palindrome Number](https://oj.leetcode.com/problems/palindrome-number/)| [Python](./src/palindrome-number.py)|2012/1/4|Easy|
 |[Minimum Path Sum](https://oj.leetcode.com/problems/minimum-path-sum/)| [Python](./src/minimum-path-sum.py)|2012/3/28|Medium|
 |[Unique Paths](https://oj.leetcode.com/problems/unique-paths/)| [Python](./src/unique-paths.py)|2012/3/28|Medium|
 |[Rotate Image](https://oj.leetcode.com/problems/rotate-image/)| [Python](./src/rotate-image.py)|2012/3/17|Medium|
@@ -19,6 +22,7 @@ My LeetCode Solutions (in Python)
 |[Permutations](https://oj.leetcode.com/problems/permutations/)| [Python](./src/permutations.py)|2012/3/16|Medium|
 |[Permutations II](https://oj.leetcode.com/problems/permutations-ii/)| [Python](./src/permutations-ii.py)|2012/3/16|Hard|
 |[Maximum Depth of Binary Tree](https://oj.leetcode.com/problems/maximum-depth-of-binary-tree/)| [Python](./src/maximum-depth-of-binary-tree.py)|2012/9/29|Easy|
+|[Minimum Depth of Binary Tree](https://oj.leetcode.com/problems/minimum-depth-of-binary-tree/)| [Python](./src/minimum-depth-of-binary-tree.py)|2012/10/9|Easy|
 |[Remove Duplicates from Sorted Array](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/)| [Python](./src/remove-duplicates-from-sorted-array.py)|2012/2/16|Easy|
 |[Same Tree](https://oj.leetcode.com/problems/same-tree/)| [Python](./src/same-tree.py)|2012/9/3|Easy|
 |[Balanced Binary Tree](https://oj.leetcode.com/problems/balanced-binary-tree/)| [Python](./src/balanced-binary-tree.py)|2012/10/8|Easy|
