@@ -11,11 +11,11 @@ My LeetCode Solutions (in Python)
 |[Valid Palindrome](https://oj.leetcode.com/problems/valid-palindrome/)| [Python](./src/valid-palindrome.py)|2013/1/12|Easy|
 |[Palindrome Number](https://oj.leetcode.com/problems/palindrome-number/)| [Python](./src/palindrome-number.py)|2012/1/4|Easy|
 |[Minimum Path Sum](https://oj.leetcode.com/problems/minimum-path-sum/)| [Python](./src/minimum-path-sum.py)|2012/3/28|Medium|
-|[Unique Paths](https://oj.leetcode.com/problems/unique-paths-ii/)| [Python](./src/unique-paths-ii.py)|2012/3/28|Medium|
-|[Unique Paths II](https://oj.leetcode.com/problems/unique-paths/)| [Python](./src/unique-paths.py)|2012/3/28|Medium|
+|[Unique Paths](https://oj.leetcode.com/problems/unique-paths/)| [Python](./src/unique-paths.py)|2012/3/28|Medium|
+|[Unique Paths II](https://oj.leetcode.com/problems/unique-paths-ii/)| [Python](./src/unique-paths-ii.py)|2012/3/28|Medium|
 |[Rotate Image](https://oj.leetcode.com/problems/rotate-image/)| [Python](./src/rotate-image.py)|2012/3/17|Medium|
 |[Generate Parentheses](https://oj.leetcode.com/problems/generate-parentheses/)| [Python](./src/generate-parentheses.py)|2012/2/12|Medium|
-|[Valid Parentheses ](https://oj.leetcode.com/problems/valid-parentheses/)| [Python](./src/valid-parentheses/.py)|2012/1/30|Easy|
+|[Valid Parentheses ](https://oj.leetcode.com/problems/valid-parentheses/)| [Python](./src/valid-parentheses.py)|2012/1/30|Easy|
 |[String to Integer (atoi)](https://oj.leetcode.com/problems/string-to-integer-atoi/)| [Python](./src/string-to-integer-atoi.py)|2011/12/26|Easy|
 |[Single Number](https://oj.leetcode.com/problems/single-number/)| [Python](./src/single-number.py)|2013/10/1|Medium|
 |[Single Number II](https://oj.leetcode.com/problems/single-number-ii/)| [Python](./src/single-number-ii.py)|2013/10/2|Medium|
