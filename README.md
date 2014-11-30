@@ -5,7 +5,10 @@ My LeetCode Solutions (in Python)
 
 | Title | Solution | Add Date | Difficulty |
 | ----- | -------- | -------- | ---------- |
+|[Edit Distance](https://oj.leetcode.com/problems/edit-distance/)| [Python](./src/edit-distance.py)|2012/4/4|Hard|
+|[Jump Game](https://oj.leetcode.com/problems/jump-game/)| [Python](./src/jump-game.py)|2012/3/24|Medium|
 |[Intersection of Two Linked Lists ](https://oj.leetcode.com/problems/intersection-of-two-linked-lists/)| [Python](./src/intersection-of-two-linked-lists.py)|2014/11/27|Easy|
+|[Word Break](https://oj.leetcode.com/problems/word-break/)| [Python](./src/word-break.py)|2013/10/4|Medium|
 |[Length of Last Word ](https://oj.leetcode.com/problems/length-of-last-word/)| [Python](./src/length-of-last-word.py)|2012/3/27|Easy|
 |[Remove Nth Node From End of List ](https://oj.leetcode.com/problems/remove-nth-node-from-end-of-list/)| [Python](./src/remove-nth-node-from-end-of-list.py)|2012/1/27|Easy|
 |[Path Sum](https://oj.leetcode.com/problems/path-sum/)| [Python](./src/path-sum.py)|2012/10/13|Easy|
@@ -30,6 +33,7 @@ My LeetCode Solutions (in Python)
 |[Maximum Depth of Binary Tree](https://oj.leetcode.com/problems/maximum-depth-of-binary-tree/)| [Python](./src/maximum-depth-of-binary-tree.py)|2012/9/29|Easy|
 |[Minimum Depth of Binary Tree](https://oj.leetcode.com/problems/minimum-depth-of-binary-tree/)| [Python](./src/minimum-depth-of-binary-tree.py)|2012/10/9|Easy|
 |[Remove Duplicates from Sorted Array](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/)| [Python](./src/remove-duplicates-from-sorted-array.py)|2012/2/16|Easy|
+|[Remove Duplicates from Sorted Array II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)| [Python](./src/remove-duplicates-from-sorted-array-ii.py)|2012/4/19|Medium|
 |[Same Tree](https://oj.leetcode.com/problems/same-tree/)| [Python](./src/same-tree.py)|2012/9/3|Easy|
 |[Balanced Binary Tree](https://oj.leetcode.com/problems/balanced-binary-tree/)| [Python](./src/balanced-binary-tree.py)|2012/10/8|Easy|
 |[Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/)| [Python](./src/reverse-integer.py)|2011/12/25|Easy|
