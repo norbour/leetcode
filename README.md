@@ -5,6 +5,7 @@ My LeetCode Solutions (in Python)
 
 | Title | Solution | Add Date | Difficulty |
 | ----- | -------- | -------- | ---------- |
+|[Majority Element](https://oj.leetcode.com/problems/majority-element/)| [Python](./src/majority-element.py)|2014/12/23|Easy|
 |[Edit Distance](https://oj.leetcode.com/problems/edit-distance/)| [Python](./src/edit-distance.py)|2012/4/4|Hard|
 |[Jump Game](https://oj.leetcode.com/problems/jump-game/)| [Python](./src/jump-game.py)|2012/3/24|Medium|
 |[Intersection of Two Linked Lists ](https://oj.leetcode.com/problems/intersection-of-two-linked-lists/)| [Python](./src/intersection-of-two-linked-lists.py)|2014/11/27|Easy|
