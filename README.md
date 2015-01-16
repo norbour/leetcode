@@ -5,6 +5,9 @@ My LeetCode Solutions (in Python)
 
 | Title | Solution | Add Date | Difficulty |
 | ----- | -------- | -------- | ---------- |
+|[Excel Sheet Column Title](https://oj.leetcode.com/problems/excel-sheet-column-title/)| [Python](./src/excel-sheet-column-title.py)|2015/1/15|Easy|
+|[Excel Sheet Column Number](https://oj.leetcode.com/problems/excel-sheet-column-number/)| [Python](./src/excel-sheet-column-number.py)|2015/1/15|Easy|
+|[Majority Element](https://oj.leetcode.com/problems/majority-element/)| [Python](./src/majority-element.py)|2014/12/23|Easy|
 |[Edit Distance](https://oj.leetcode.com/problems/edit-distance/)| [Python](./src/edit-distance.py)|2012/4/4|Hard|
 |[Jump Game](https://oj.leetcode.com/problems/jump-game/)| [Python](./src/jump-game.py)|2012/3/24|Medium|
 |[Intersection of Two Linked Lists ](https://oj.leetcode.com/problems/intersection-of-two-linked-lists/)| [Python](./src/intersection-of-two-linked-lists.py)|2014/11/27|Easy|
