@@ -1,31 +1,53 @@
-import textwrap
+# Source : https://leetcode.com/problems/invert-binary-tree/
+# Author : Cao Jin
+# Date   : 2015-6-26
 
-import tornado.httpserver
-import tornado.ioloop
-import tornado.options
-import tornado.web
+# ---------Title---------- 
+# Invert Binary Tree 
+# ---------Description---- 
+# Invert a binary tree.
 
-from tornado.options import define, options
-define("port", default=8000, help="run on the given port", type=int)
+#      4
+#    /   \
+#   2     7
+#  / \   / \
+# 1   3 6   9
+#
+# to
+#
+#      4
+#    /   \
+#   7     2
+#  / \   / \
+# 9   6 3   1
+#
+# Trivia:
+# This problem was inspired by this original tweet by Max Howell:
+# Google: 90% of our engineers use the software you wrote (Homebrew), but you # can’t invert a binary tree on a whiteboard so fuck off.
 
-class ReverseHandler(tornado.web.RequestHandler):
-	def get(self, input):
-		self.write(input[::-1])
+# For example, given
+# s = "leetcode",
+# dict = ["leet", "code"].
 
-class WrapHandler(tornado.web.RequestHandler):
-	def post(self):
-		text = self.get_argument('text')
-		width = self.get_argument('width', 40)
-		self.write(textwrap.fill(text, int(width)))
+# Return true because "leetcode" can be segmented as "leet code".
+# ---------Tags----------- 
+# Dynamic programming
+
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, x):
+#         self.val = x
+#         self.left = None
+#         self.right = None
+
+class Solution:
+	# @param {TreeNode} root
+	# @return {TreeNode}
+	def invertTree(self, root):
+		if root == None:
+			return
+		newRoot = TreeNode(root.val)
+		newRoot.left = self.invertTree(root.right)
+		newRoot.right = self.invertTree(root.left)
 	        
-if __name__ == "__main__":
-	tornado.options.parse_command_line()
-	app = tornado.web.Application(
-		handlers=[
-			(r"/reverse/(\w+)", ReverseHandler),
-			(r"/wrap", WrapHandler)
-		]
-	)
-	http_server = tornado.httpserver.HTTPServer(app)
-	http_server.listen(options.port)
-	tornado.ioloop.IOLoop.instance().start()
+		return newRoot
