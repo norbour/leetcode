@@ -5,6 +5,7 @@ My LeetCode Solutions (in Python)
 
 | Title | Solution | Add Date | Difficulty |
 | ----- | -------- | -------- | ---------- |
+|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)| [Python](./src/invert-binary-tree.py)|2015/6/26|Easy|
 |[Excel Sheet Column Title](https://oj.leetcode.com/problems/excel-sheet-column-title/)| [Python](./src/excel-sheet-column-title.py)|2015/1/15|Easy|
 |[Excel Sheet Column Number](https://oj.leetcode.com/problems/excel-sheet-column-number/)| [Python](./src/excel-sheet-column-number.py)|2015/1/15|Easy|
 |[Majority Element](https://oj.leetcode.com/problems/majority-element/)| [Python](./src/majority-element.py)|2014/12/23|Easy|

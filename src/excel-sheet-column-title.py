@@ -21,12 +21,7 @@
 
 class Solution:
     # @return a string
-    def convertToTitle(self, num): 
-		trans_table = {}
-		
-		for i in xrange(26):
-			trans_table[i + 1] = chr( i + ord('A') )
-			
+    def convertToTitle(self, num): 			
 		result_list = []
 		while num > 0:
 			num = num - 1
